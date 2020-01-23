@@ -1,4 +1,4 @@
-# CS181, Introduction to Formal Languages and Automata Theory, Winter 2020 
+# CS181, Introduction to Formal Languages and Automata Theory, Winter 2020  
 
 ## Course Objective
 Grammars, automata, and languages. Finite-state languages and finite-state automata. Context-free languages and pushdown story automata. Unrestricted rewriting systems, recursively enumerable and recursive languages, and Turing machines. Closure properties, pumping lemmas, and decision algorithms. Introduction to computability.
